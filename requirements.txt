@@ -1,4 +1,4 @@
-streamlit 
-aspose.pdf 
-groq 
-dotenv 
+streamlit
+aspose-pdf
+groq
+python-dotenv
