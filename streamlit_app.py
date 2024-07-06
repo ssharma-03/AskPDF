@@ -3,7 +3,9 @@ import aspose.pdf as pdf
 from bot import chat  
 import os
 from groq import Groq
-from dotenv import load_dotenv
+from dotenv import load_dotenv  # This should be python-dotenv
+
+# Load environment variables
 load_dotenv()
 
 client = Groq(
