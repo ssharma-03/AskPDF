@@ -1,6 +1,5 @@
 import streamlit as st
-import aspose.pdf as pdf
-from bot import chat  
+import aspose.pdf as pdf 
 import os
 from groq import Groq
 from dotenv import load_dotenv  # This should be python-dotenv
